@@ -1,5 +1,5 @@
 import "./App.css";
-import Login from "./components/forms";
+import Login from './components/page-registration/forms/forms';
 
 function App() {
   return (
@@ -10,3 +10,5 @@ function App() {
 }
 
 export default App;
+
+

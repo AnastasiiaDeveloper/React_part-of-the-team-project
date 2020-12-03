@@ -8,14 +8,14 @@
   background-color: RGBA(255, 101, 80, 0);
   border-bottom: 3px solid rgb(223, 220, 220);
 }
+
 .inp__style:focus {
   border: none;
   outline: 0;
   outline-offset: 0;
   border-bottom: 3px solid orange;
 }
-.btn__reg {
-}
+
 .btn__in {
   z-index: 10;
   width: 176px;
@@ -34,6 +34,7 @@
   letter-spacing: 0.04em;
   color: #ffffff;
 }
+
 .btn__reg {
   z-index: 10;
   width: 176px;
@@ -51,7 +52,6 @@
   font-size: 14px;
   line-height: 17px;
   letter-spacing: 0.04em;
-
   color: #fc842d;
 }
 
